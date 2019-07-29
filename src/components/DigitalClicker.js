@@ -6,7 +6,7 @@ export default class DigitalClicker {
     super();
     this.state = {
       timesClicked: 0
-    }
+    };
   }
 
   handleClick = () => {
